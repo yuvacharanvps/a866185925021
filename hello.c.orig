@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+#inlcude <stdio.h>
+void main ()
+	fprint("/nthis is my source code Assignment")
+	fprinT("/n THIS IS MY FIRST ASSIGNMENT ")
+=======
+#inlcude stdio.h
+int main ()
+	printf(/n"this is my source code Assignment")
+>>>>>>> test_c
