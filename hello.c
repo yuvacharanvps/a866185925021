@@ -1,3 +1,3 @@
-#inlcude <stdio.h>
-void main ()
-	fprint(/n"this is my source code Assignment")
+#inlcude stdio.h
+int main ()
+	printf(/n"this is my source code Assignment")
