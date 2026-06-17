@@ -1,3 +1,4 @@
 #inlcude <stdio.h>
 void main ()
-	fprint(/n"this is my source code Assignment")
+	fprint("/nthis is my source code Assignment")
+	fprinT("/n THIS IS MY FIRST ASSIGNMENT ")
